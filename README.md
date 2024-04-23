@@ -7,7 +7,7 @@
 ## Aim: 
      To perform automatic text summarization using Natural Language Processing (NLP) techniques.
 
-<h3>Algorithm:</h3>
+## Algorithm:
 Step 1 Import necessary libraries for natural language processing tasks.<BR>
 Step 2: Download NLTK resources, including the punkt tokenizer and stopwords.<BR>
 Step 3: Define Text Preprocessing Function to tokenize, remove stopwords, and perform stemming.<BR>
