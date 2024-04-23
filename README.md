@@ -1,5 +1,5 @@
 <H3>NAME: Thirugnanamoorthi G</H3>
-<H3>REGISTER NO:212221230117</H3>
+<H3>REGISTER NO: 212221230117</H3>
 <H3>EX NO: 7</H3>
 <H3>DATE: 23.04.24</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
